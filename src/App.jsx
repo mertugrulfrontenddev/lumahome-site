@@ -7,7 +7,8 @@ function App() {
       style={{
         textAlign: "center",
         marginTop: "50px",
-        backgroundColor: "grey",
+        backgroundColor: "black",
+        padding: "10px",
       }}
     >
       <img
@@ -17,7 +18,7 @@ function App() {
       />
       <p>Sitemiz Yapım Aşamasındadır...</p>
 
-      <footer style={{ color: "grey" }}>2025 © Tüm hakları saklıdır </footer>
+      <footer style={{ color: "black" }}>2025 © Tüm hakları saklıdır </footer>
     </div>
   );
 }
