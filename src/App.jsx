@@ -7,7 +7,7 @@ function App() {
       style={{
         textAlign: "center",
         marginTop: "50px",
-        backgroundColor: "black",
+        backgroundColor: "grey",
         padding: "10px",
       }}
     >
