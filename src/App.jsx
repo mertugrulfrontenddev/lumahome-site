@@ -18,7 +18,7 @@ function App() {
       />
       <p>Sitemiz Yapım Aşamasındadır...</p>
 
-      <footer style={{ color: "black" }}>2025 © Tüm hakları saklıdır </footer>
+      <footer>2025 © Tüm hakları saklıdır </footer>
     </div>
   );
 }
