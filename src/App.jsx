@@ -10,6 +10,8 @@ function App() {
         style={{ height: "150px", width: "150px" }}
       />
       <p>Sitemiz Yapım Aşamasındadır...</p>
+
+      <footer style={{ color: "grey" }}>2025 © Tüm hakları saklıdır </footer>
     </div>
   );
 }
