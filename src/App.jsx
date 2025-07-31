@@ -3,7 +3,13 @@ import "./App.css";
 
 function App() {
   return (
-    <div style={{ textAlign: "center", marginTop: "50px" }}>
+    <div
+      style={{
+        textAlign: "center",
+        marginTop: "50px",
+        backgroundColor: "blue",
+      }}
+    >
       <img
         src={logo}
         alt="LumaHome Logo"
