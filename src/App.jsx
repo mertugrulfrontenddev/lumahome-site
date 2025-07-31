@@ -7,13 +7,13 @@ function App() {
       style={{
         textAlign: "center",
         marginTop: "50px",
-        backgroundColor: "blue",
+        backgroundColor: "grey",
       }}
     >
       <img
         src={logo}
         alt="LumaHome Logo"
-        style={{ height: "150px", width: "150px" }}
+        style={{ height: "150px", width: "150px", marginTop: "20px" }}
       />
       <p>Sitemiz Yapım Aşamasındadır...</p>
 
