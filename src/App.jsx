@@ -9,14 +9,14 @@ function App() {
         marginTop: "50px",
         backgroundColor: "grey",
         padding: "10px",
-        height: "250px",
+        height: "300px",
         width: "250px",
       }}
     >
       <img
         src={logo}
         alt="LumaHome Logo"
-        style={{ height: "190px", width: "150px", marginTop: "20px" }}
+        style={{ height: "150px", width: "150px", marginTop: "20px" }}
       />
       <p>Sitemiz Yapım Aşamasındadır...</p>
 
