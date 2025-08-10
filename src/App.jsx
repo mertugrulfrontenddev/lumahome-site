@@ -20,6 +20,9 @@ function App() {
       />
       <p>Sitemiz Yapım Aşamasındadır...</p>
 
+      <p></p>
+      <p>İletişim için : info@lumahome.tr</p>
+
       <footer>2025 © Tüm hakları saklıdır </footer>
     </div>
   );
