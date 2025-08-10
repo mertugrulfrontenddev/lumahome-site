@@ -9,6 +9,8 @@ function App() {
         marginTop: "50px",
         backgroundColor: "grey",
         padding: "10px",
+        height: "250px",
+        width: "250px",
       }}
     >
       <img
